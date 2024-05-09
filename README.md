@@ -4,14 +4,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This is a Start Kit for Industry Leading Tech Stack
 
-Framework -- nextjs
+```Framework -- nextjs
 Ui -- ShadcnUi,TailwindCss
 Auth -- Next Auth
 Orm -- Prisma Orm
 Database -- While Creating this I used neon - but can use your choice of Database
 
 Just Type Bun Install after cloning the repository
-
+```
 ## Getting Started
 
 First, run the development server:
